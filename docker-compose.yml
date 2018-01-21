@@ -1,0 +1,9 @@
+version: '3.4'
+services:
+  webapp:
+    build:
+      context: https://github.com/kishorekkota/docker.git
+  maria:
+    image: mariadb
+  java:
+    image: java

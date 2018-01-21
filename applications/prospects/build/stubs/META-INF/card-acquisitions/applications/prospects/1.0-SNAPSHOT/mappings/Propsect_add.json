@@ -1,0 +1,15 @@
+{
+  "id" : "d4b5c112-678c-417e-bbb5-580c165c5930",
+  "request" : {
+    "url" : "/prospects",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalTo" : ""
+    } ]
+  },
+  "response" : {
+    "status" : 201,
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "d4b5c112-678c-417e-bbb5-580c165c5930"
+}

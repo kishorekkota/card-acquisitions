@@ -1,0 +1,12 @@
+{
+  "id" : "89fe39e1-d58a-4130-a71a-127d20bcc36d",
+  "request" : {
+    "urlPath" : "/prospects/test",
+    "method" : "DELETE"
+  },
+  "response" : {
+    "status" : 204,
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "89fe39e1-d58a-4130-a71a-127d20bcc36d"
+}

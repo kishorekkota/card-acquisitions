@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-contract-verifier:1.2.2.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-verifier/1.2.2.BUILD-SNAPSHOT/c52e5b16bbc75ac88361701a2958d280123b27a/spring-cloud-contract-verifier-1.2.2.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-verifier/1.2.2.BUILD-SNAPSHOT/f860612c8fdaa33fd9b66c768ddf2f425821912c/spring-cloud-contract-verifier-1.2.2.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

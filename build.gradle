@@ -1,0 +1,64 @@
+buildscript {
+    ext {
+        springBootVersion = '2.0.0.M3'
+
+
+        springCloudVersion = 'Finchley.M3'
+
+    }
+    repositories {
+        mavenCentral()
+        maven { url "https://repo.spring.io/snapshot" }
+        maven { url "https://repo.spring.io/milestone" }
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+
+
+
+subprojects {
+
+
+    apply plugin: 'java'
+    apply plugin: 'eclipse'
+
+    apply plugin: 'io.spring.dependency-management'
+
+
+    group 'com.discover.cardacq'
+    version '1.0-SNAPSHOT'
+
+
+
+    sourceCompatibility = 1.8
+
+
+
+
+
+
+
+
+
+
+    repositories {
+        mavenCentral()
+        maven { url "https://repo.spring.io/snapshot" }
+        maven { url "https://repo.spring.io/milestone" }
+    }
+
+
+}
+
+repositories {
+    mavenCentral()
+}
+
+task hello {
+    doLast {
+        println 'Hello world!'
+    }
+}

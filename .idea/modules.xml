@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/offers/applications_offers.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/offers/applications_offers.iml" group="applications/offers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/offers/applications_offers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/offers/applications_offers_main.iml" group="applications/offers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/offers/applications_offers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/offers/applications_offers_test.iml" group="applications/offers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/prospects/applications_prospects.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/prospects/applications_prospects.iml" group="applications/prospects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/prospects/applications_prospects_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/prospects/applications_prospects_main.iml" group="applications/prospects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/prospects/applications_prospects_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/prospects/applications_prospects_test.iml" group="applications/prospects" />
+      <module fileurl="file://$PROJECT_DIR$/card-acquisitions.iml" filepath="$PROJECT_DIR$/card-acquisitions.iml" />
+    </modules>
+  </component>
+</project>

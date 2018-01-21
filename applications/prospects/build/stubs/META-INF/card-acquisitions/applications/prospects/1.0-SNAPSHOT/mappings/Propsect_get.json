@@ -1,0 +1,12 @@
+{
+  "id" : "314437ea-cdbe-47f8-a50f-4a75f55841b5",
+  "request" : {
+    "urlPath" : "/prospects/test",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "314437ea-cdbe-47f8-a50f-4a75f55841b5"
+}

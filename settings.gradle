@@ -1,0 +1,4 @@
+rootProject.name = 'card-acquisitions'
+
+include "applications/prospects"
+include "applications/offers"
