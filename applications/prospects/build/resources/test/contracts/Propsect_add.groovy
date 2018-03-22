@@ -1,6 +1,9 @@
 package contracts
 
 import org.springframework.cloud.contract.spec.Contract
+import org.springframework.cloud.contract.stubrunner.spring.AutoConfigureStubRunner
+
+
 
 Contract.make {
 

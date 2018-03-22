@@ -1,5 +1,5 @@
 {
-  "id" : "89fe39e1-d58a-4130-a71a-127d20bcc36d",
+  "id" : "6f05e150-4d0f-40f9-a08f-e02e6854313a",
   "request" : {
     "urlPath" : "/prospects/test",
     "method" : "DELETE"
@@ -8,5 +8,5 @@
     "status" : 204,
     "transformers" : [ "response-template" ]
   },
-  "uuid" : "89fe39e1-d58a-4130-a71a-127d20bcc36d"
+  "uuid" : "6f05e150-4d0f-40f9-a08f-e02e6854313a"
 }

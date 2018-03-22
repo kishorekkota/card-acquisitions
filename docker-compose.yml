@@ -5,5 +5,7 @@ services:
       context: https://github.com/kishorekkota/docker.git
   maria:
     image: mariadb
+    environment:
+      - MYSQL_ROOT_PASSWORD=admin
   java:
     image: java

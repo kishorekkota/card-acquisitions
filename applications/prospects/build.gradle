@@ -31,6 +31,8 @@ buildscript {
        // classpath 'se.transmode.gradle:gradle-docker:1.1'
         classpath "gradle.plugin.com.palantir.gradle.docker:gradle-docker:0.13.0"
 
+
+
     }
 }
 
@@ -49,6 +51,8 @@ dependencies {
     testCompile("org.springframework.cloud:spring-cloud-starter-contract-verifier")
     compile('org.projectlombok:lombok')
     compile("org.springframework.boot:spring-boot-devtools")
+    compile "org.springframework.cloud:spring-cloud-starter-contract-stub-runner"
+    testCompile group: 'org.spockframework', name: 'spock-spring', version: '1.1-groovy-2.4'
 
 }
 dependencyManagement {
